@@ -21,7 +21,7 @@ nav{
 }
 
 .navigation-bar{
-    background-color: #23576b;
+    background-color: #6e9aaa;
     padding: 5px;
     margin: 0;
     height: 70px;
@@ -56,9 +56,9 @@ li{
 }
 
 .nav-list a:hover{
-    color: #f9f6ef;
-    border-top: 6px solid #f9f6ef;
-    border-bottom: 6px solid #f9f6ef;
+    color: #6e9aaa;
+    border-top: 6px solid #6e9aaa;
+    border-bottom: 6px solid #6e9aaa;
     animation-delay: 3s;
     border-radius: 5px;
     cursor: pointer;
@@ -122,7 +122,7 @@ li{
     margin-left: auto;
     text-align: center;
     text-decoration: none;
-    color: #ffc107;
+    color: #90ffec;
 }
 
 .typewriter{
@@ -135,7 +135,7 @@ li{
     right: 0;
     color:#000000;
     width: 100%;
-    background-color: #b6aa90;
+    background-color: #3a7e69;
     animation: typing 2.5s steps(30) alternate infinite;
 }
 
@@ -167,13 +167,13 @@ li{
 .about-statement p{
     margin-left: 100px;
     font-size: 45px;
-    color: #ffc107;
+    color: #90ffec;
     font-style: italic;
 }
 
 .vision-statement h3{
     margin: 15px;
-    color: #ffc107;
+    color: #b2d4e0;
 }
 
 .vision-statement p{
@@ -182,7 +182,7 @@ li{
 
 .mission-statement h3{
     margin: 15px;
-    color: #ffc107;
+    color: #b2d4e0;
 }
 
 .mission-statement p{
@@ -191,7 +191,7 @@ li{
 
 .values-statement h3{
     margin: 15px;
-    color: #ffc107;
+    color: #b2d4e0;
 }
 
 .values-statement p{
@@ -222,7 +222,7 @@ li{
 }
 
 .skill-quote1 q{
-    color: #ffc107;
+    color: #ffffff;
     font-size: 40px;
     display: flex;
     justify-content: flex-end;
@@ -235,7 +235,7 @@ li{
 }
 
 .skill-quote2 q{
-    color: #ffc107;
+    color: #ffffff;
     font-size: 40px;
     display: flex;
     justify-content: flex-start;
@@ -278,21 +278,21 @@ li{
 fieldset{
     text-align: center;
     margin: auto;
-    border-color: #ffc107;
+    border-color: #b2d4e0;
     width: 1050px;
     border-style: double;
     border-width: 5px;
 }
 
 legend{
-    color: #ffc107;
+    color: #b2d4e0;
     font-size: 30px;
     text-align: left;
 }
 
 /* FOOTER */
 .main-footer{
-    background-color: #ffc107;
+    background-color: #23576b;
     height: 60px;
     padding: 0px;
     margin: 0;
